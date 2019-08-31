@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="unne.DataTest" failures="0" tests="2" time="3.058" errors="0">
+  <properties/>
+  <testcase name="f" time="0.0" classname="unne.DataTest"/>
+  <testcase name="f" time="0.0" classname="unne.DataTest"/>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [unne.NewTest]">
+  <test name="Command line test ccb1e04e-194b-41ab-a79b-9a88ee1c0172(failed)">
+    <classes>
+      <class name="unne.NewTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="f" invocation-numbers="0 1 2"/>
+        </methods>
+      </class> <!-- unne.NewTest -->
+    </classes>
+  </test> <!-- Command line test ccb1e04e-194b-41ab-a79b-9a88ee1c0172(failed) -->
+</suite> <!-- Failed suite [unne.NewTest] -->

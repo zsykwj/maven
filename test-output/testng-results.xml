@@ -1,0 +1,58 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="MavenPro1" duration-ms="3058" started-at="2019-08-31T13:42:01Z" finished-at="2019-08-31T13:42:04Z">
+    <groups>
+    </groups>
+    <test name="unne.DataTest" duration-ms="3058" started-at="2019-08-31T13:42:01Z" finished-at="2019-08-31T13:42:04Z">
+      <class name="unne.DataTest">
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="31" started-at="2019-08-31T13:42:04Z" finished-at="2019-08-31T13:42:04Z">
+        </test-method>
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)" name="f" duration-ms="0" started-at="2019-08-31T13:42:04Z" finished-at="2019-08-31T13:42:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[张三]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[182]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-08-31T13:42:04Z" finished-at="2019-08-31T13:42:04Z">
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-08-31T13:42:04Z" finished-at="2019-08-31T13:42:04Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-08-31T13:42:04Z" finished-at="2019-08-31T13:42:04Z">
+        </test-method>
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)" name="f" duration-ms="0" started-at="2019-08-31T13:42:04Z" finished-at="2019-08-31T13:42:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[李四]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[181]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="unne.NewTest" duration-ms="123170" started-at="2019-08-30T11:40:47Z" finished-at="2019-08-30T11:42:50Z">
+    <groups>
+    </groups>
+    <test name="Command line test 17e528b5-f04c-4b58-b74f-dad2e74f1676" duration-ms="123170" started-at="2019-08-30T11:40:47Z" finished-at="2019-08-30T11:42:50Z">
+      <class name="unne.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:unne.NewTest@e32802]" name="beforeMethod" is-config="true" duration-ms="13840" started-at="2019-08-30T19:40:47Z" finished-at="2019-08-30T19:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:unne.NewTest@e32802]" name="f" duration-ms="6973" started-at="2019-08-30T19:41:00Z" data-provider="dp" finished-at="2019-08-30T19:41:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:unne.NewTest@e32802]" name="afterMethod" is-config="true" duration-ms="19127" started-at="2019-08-30T19:41:07Z" finished-at="2019-08-30T19:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:unne.NewTest@e32802]" name="beforeMethod" is-config="true" duration-ms="11672" started-at="2019-08-30T19:41:26Z" finished-at="2019-08-30T19:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:unne.NewTest@e32802]" name="f" duration-ms="5615" started-at="2019-08-30T19:41:38Z" data-provider="dp" finished-at="2019-08-30T19:41:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[b]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:unne.NewTest@e32802]" name="afterMethod" is-config="true" duration-ms="16355" started-at="2019-08-30T19:41:44Z" finished-at="2019-08-30T19:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:unne.NewTest@e32802]" name="beforeMethod" is-config="true" duration-ms="9830" started-at="2019-08-30T19:42:00Z" finished-at="2019-08-30T19:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:unne.NewTest@e32802]" name="f" duration-ms="5904" started-at="2019-08-30T19:42:10Z" data-provider="dp" finished-at="2019-08-30T19:42:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[c]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:unne.NewTest@e32802]" name="afterMethod" is-config="true" duration-ms="33854" started-at="2019-08-30T19:42:16Z" finished-at="2019-08-30T19:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- unne.NewTest -->
+    </test> <!-- Command line test 17e528b5-f04c-4b58-b74f-dad2e74f1676 -->
+  </suite> <!-- unne.NewTest -->
+  <suite name="unne.New2Test" duration-ms="32" started-at="2019-08-30T11:40:46Z" finished-at="2019-08-30T11:40:47Z">
+    <groups>
+    </groups>
+    <test name="Command line test f72681f6-f3a6-4ec4-bd85-e9be5e5067ba" duration-ms="32" started-at="2019-08-30T11:40:46Z" finished-at="2019-08-30T11:40:47Z">
+      <class name="unne.New2Test">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:unne.New2Test@5e176f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-08-30T19:40:47Z" finished-at="2019-08-30T19:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:unne.New2Test@5e176f]" name="f" duration-ms="0" started-at="2019-08-30T19:40:47Z" finished-at="2019-08-30T19:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:unne.New2Test@5e176f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-08-30T19:40:47Z" finished-at="2019-08-30T19:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- unne.New2Test -->
+    </test> <!-- Command line test f72681f6-f3a6-4ec4-bd85-e9be5e5067ba -->
+  </suite> <!-- unne.New2Test -->
+</testng-results>
